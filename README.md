@@ -1,9 +1,9 @@
 # CS558 - Computer Systems Lab
-## Group 5
+## Group 18
 
-p.kaja@iitg.ac.in - Kaja Gnana Prakash<br>
-t.karreddula@iitg.ac.in -Tejas Chandra Karreddula<br>
-ashish1009@iitg.ac.in - Ashish Kumar Pal
+v.subramanian@iitg.ac.in - Subramanian V<br>
+r.sri@iitg.ac.in - Sri Harsha R<br>
+d.neha@iitg.ac.in - Neha Dhuttargaon
 
 ## Problem Statement
 In this question, you write a multi-threaded Event-reservation system for Nehru Centre.
